@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fx</h1>
-<h3 align="center">Mathematics major / Former competitive programmer in OI/ACM / Create at April 2016</h3>
+<h3 align="center">Mathematics major / Former OI/ACM competitive programmer / Join at Apr. 2016</h3>
 
-- 🏫 I’m currently studying **for a BSc in Computer Science**
+- 🏫 I’m currently studying for a **BSc in Computer Science**
 
-- 🌱 I’m currently learning **Geospatial Analysis**
+- 🌱 I’m currently learning **CV**
 
 - 🔭 I’m currently working on **Kaggle Competitions**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/renewhope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="renewhope" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26574601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="renewhope" height="30" width="40" /></a>
 <a href="https://kaggle.com/renewhope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="renewhope" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/renewhope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="renewhope" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/renewhope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="renewhope" height="30" width="40" /></a>
